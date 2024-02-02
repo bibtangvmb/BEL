@@ -1,0 +1,30 @@
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\obj\Debug\Project_1.csproj.CoreCompileInputs.cache
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\obj\Debug\Project 1.exe
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\obj\Debug\Project 1.pdb
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Project 1.exe.config
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Project 1.exe
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Project 1.pdb
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\obj\Debug\Project_1.csprojAssemblyReference.cache
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Jadwal Bintang.accdb
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\5 Menit Awal Upacara.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Akhir Pekan 1.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Akhir Pekan 2.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Akhir Pelajaran A.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Akhir Pelajaran B.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\awal jam ke 1.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Istirahat I.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Istirahat II.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 1.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 2.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 3.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 4.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 5.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 6.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 7.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 8.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\Pelajaran ke 9.wav
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Suara\pembuka.wav

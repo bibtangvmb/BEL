@@ -1,0 +1,7 @@
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Project 1.exe.config
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Project 1.exe
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\bin\Debug\Project 1.pdb
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\obj\Debug\BEL SEKOLAH.csprojAssemblyReference.cache
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\obj\Debug\BEL SEKOLAH.csproj.CoreCompileInputs.cache
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\obj\Debug\Project 1.exe
+D:\Bintang IK2\Project Pertemuan 1\Project 1\Project 1\obj\Debug\Project 1.pdb
